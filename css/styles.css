@@ -1,0 +1,41 @@
+body{
+  background-color: #F2F5C8;
+}
+
+img{
+  vertical-align: middle;
+}
+
+h1{
+  text-align: center;
+  color: #C1DEAE;
+}
+
+h2{
+  text-align: center;
+  color: #C1DEAE;
+}
+
+h3{
+  text-align: center;
+  color: #C1DEAE;
+}
+
+hr{
+  border-style: none;
+}
+
+p{
+  text-align: center;
+  color: #219F94;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.a{
+  font-style: normal;
+}
+
+table{
+  margin: 0 auto;
+}
